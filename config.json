@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachesender",
+        "uuid": 32753788,
+        "checksum": "yx1g8r"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
